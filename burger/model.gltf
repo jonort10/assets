@@ -195,7 +195,7 @@
 		{
 			"byteLength" : 1397468,
 			"name" : "model",
-			"uri" : "https://github.com/jonort10/assets/tree/master/burger/modelstuff/model.bin"
+			"uri" : "modelstuff/model.bin"
 		}
 	],
 	"materials" : 
